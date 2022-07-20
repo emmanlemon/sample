@@ -3,17 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<<<<<<< HEAD
-    <meta name="viewport" content="width=!, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-=======
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
->>>>>>> d8d3615dad84004cf468db6f365b7eb01bbd2549
+    <p> Hi Outsoar</p>
 </body>
 </html>
